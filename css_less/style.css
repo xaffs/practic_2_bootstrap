@@ -1,0 +1,78 @@
+.btn-secondary {
+  margin-left: 20px;
+}
+.toolbar-main {
+  padding-right: 500px;
+}
+.section-main {
+  display: flex;
+  justify-content: center;
+}
+.shop-contain {
+  padding-top: 50px;
+  display: flex;
+  justify-content: center;
+}
+.card {
+  margin-left: 60px;
+}
+.button-load {
+  padding-top: 30px;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 70px;
+}
+.line-end {
+  padding-bottom: 70px;
+  border-top: 1px solid black;
+}
+.foot-section {
+  display: flex;
+  justify-content: space-between;
+}
+.foot-section__brend-info {
+  text-align: left;
+  margin-left: 400px;
+}
+.foot-section__brend-info p {
+  color: #a8a2a2;
+}
+.foot-section__brend-links {
+  margin-right: 200px;
+}
+.foot-section__brend-links p {
+  font-weight: bold;
+  margin-bottom: 2px;
+  width: 6em;
+}
+.foot-section__brend-links li {
+  list-style-type: none;
+}
+.foot-section__brend-links a {
+  text-decoration: none;
+}
+.foot-section__brend-links ul {
+  padding-left: 0px;
+  padding-top: 0px;
+}
+.foot-section__contact-info {
+  margin-right: 400px;
+  display: flex;
+}
+.foot-section__contact-info button {
+  height: 1.9em;
+  border: none;
+  background-color: #336d6d;
+  color: aliceblue;
+}
+.copyright-content {
+  padding-top: 30px;
+  display: flex;
+  justify-content: center;
+}
+.copyright-content__border-cop {
+  display: flex;
+  width: 1000px;
+  justify-content: space-between;
+  border-top: 1px solid black;
+}
